@@ -6,8 +6,8 @@ export default class Home extends Component {
     return (
       <div className='Home'>
         <div className='lander'>
-          <h1>Twitterino</h1>
-          <p>A simple twitter app</p>
+          <h1>A simple Web app</h1>
+          <p>A simple app</p>
         </div>
       </div>
     );

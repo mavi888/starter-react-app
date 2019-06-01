@@ -20,7 +20,7 @@ class App extends Component {
         <Navbar>
           <Navbar.Header>
             <Navbar.Brand>
-              <Link to='/'>Twitterino</Link>
+              <Link to='/'>Simple App</Link>
             </Navbar.Brand>
           </Navbar.Header>
         </Navbar>
